@@ -6,10 +6,6 @@ Youtube Demonstration: https://youtu.be/3-z3Ae0HXrE
 
 Pictures Link: https://drive.google.com/drive/folders/1AdE3pFaebV9-Tqy9gpRE1TY-1e1KYuUM?usp=sharing
 
-Time: apporximately 6 hours
-
-Price = approximately $60 CAD
-
 The PC Light system is composed of three main controls.
 Two toggle on-off switches and a potentiometer.
 The first toggle switch is a digital on-off switch which ocntrols wether the led lights inside the pc are on or off.
